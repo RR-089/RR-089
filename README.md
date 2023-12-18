@@ -22,8 +22,8 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 <!-- Recent Projects -->
 ## Recent Projects
 - 🌐 Implementasi AI API (https://implementasi-open-aiapi-dalle-client.vercel.app/) - Implementasi AI API dari OpenAI menggunakan React, Three.js, Node, dan Express
-- 🚀 [Project 2](#) - Short description (Menyusul)
-- 🛠️ [Project 3](#) - Short description (Menyusul)
+- 🚀 Expense Tracker(#) - Membuat Expense Tracker menggunakan MERN Stack (Menyusul)
+- 🛠️ AI Course(#) - (Menyusul)
 
 ### Other Projects
 - 🚀[Codepen](https://codepen.io/rr-089)
