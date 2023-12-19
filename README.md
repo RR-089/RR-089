@@ -24,8 +24,8 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 - 🚀 **Deployment:** Deployed on Vercel for frontend and backend.
 
 #### [Expense Tracker](https://implementasi-open-aiapi-dalle-client.vercel.app/)
-- 🚀 **Description:** Expense Tracker using the MERN Stack.
-- 🌐 **Deployment:** Deployed on Vercel for frontend and Cyclic for backend.
+- 🌐 **Description:** Expense Tracker using the MERN Stack.
+- 🚀 **Deployment:** Deployed on Vercel for frontend and Cyclic for backend.
 
 ### Other Projects
 - 🚀[Codepen](https://codepen.io/rr-089)
