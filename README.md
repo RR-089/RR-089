@@ -7,9 +7,10 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 
 <!-- Technologies and Tools -->
 ## Tech Stack
-- 💻 Node.js | Express.js 
+- 💻 Node.js | Express.js | Nest.js
 - 🛢️ MongoDB
 - 🚀 RESTful APIs
+- 🛠️ Jest
 - 🔧 Git | VSCode | Thunder Client | Postman
 
 ## Languages
