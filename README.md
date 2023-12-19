@@ -19,11 +19,11 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 
 ## Recent Projects
 
-### [Shirt Customizer](https://implementasi-open-aiapi-dalle-client.vercel.app/)
+#### [Shirt Customizer](https://implementasi-open-aiapi-dalle-client.vercel.app/)
 - 🌐 **Description:** Implementation of the AI API from OpenAI using React, Three.js, Node, and Express.
 - 🚀 **Deployment:** Deployed on Vercel for frontend and backend.
 
-### [Expense Tracker](https://implementasi-open-aiapi-dalle-client.vercel.app/)
+#### [Expense Tracker](https://implementasi-open-aiapi-dalle-client.vercel.app/)
 - 🚀 **Description:** Expense Tracker using the MERN Stack.
 - 🌐 **Deployment:** Deployed on Vercel for frontend and Cyclic for backend.
 
