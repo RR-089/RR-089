@@ -18,8 +18,14 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 - **NoSQL (MongoDB):** Flexible data storage 
 
 ## Recent Projects
-- 🌐 Shirt Customizer (https://implementasi-open-aiapi-dalle-client.vercel.app/) - Implementasi AI API dari OpenAI menggunakan React, Three.js, Node, dan Express, di-deploy pada Vercel (Front-End & Back-End).
-- 📖 Expense Tracker (https://mern-expense-tracker-b1y2u5qd2-rr-089.vercel.app/) - Membuat Expense Tracker menggunakan MERN Stack, di-deploy pada Vercel(Front-End) dan Cyclic(Back-End).
+
+### [Shirt Customizer](https://implementasi-open-aiapi-dalle-client.vercel.app/)
+- 🌐 **Description:** Implementation of the AI API from OpenAI using React, Three.js, Node, and Express.
+- 🚀 **Deployment:** Deployed on Vercel for frontend and backend.
+
+### [Expense Tracker](https://implementasi-open-aiapi-dalle-client.vercel.app/)
+- 🚀 **Description:** Expense Tracker using the MERN Stack.
+- 🌐 **Deployment:** Deployed on Vercel for frontend and Cyclic for backend.
 
 ### Other Projects
 - 🚀[Codepen](https://codepen.io/rr-089)
