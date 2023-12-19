@@ -1,11 +1,8 @@
-<!-- Your Name -->
 # Hello, I'm Rachmat Rizki 👋
 
-<!-- Introduction -->
 Aspiring backend developer deeply passionate about the world of Node.js. While I may currently be in the process of mastering the intricacies of building scalable and efficient server-side applications, I am eager to jump into the workforce upon graduation. Despite potential gaps in my knowledge, my enthusiasm knows no bounds. Every challenge is an opportunity to learn, and I'm excited about the endless possibilities that the backend realm offers.
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RR-089&show_icons=true&hide=issues&hide_border=true&theme=dark) -->
 
-<!-- Technologies and Tools -->
 ## Tech Stack
 - 💻 Node.js | Express.js | Nest.js
 - 🛢️ MongoDB
@@ -20,10 +17,9 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 - **SQL:** Relational databases 
 - **NoSQL (MongoDB):** Flexible data storage 
 
-<!-- Recent Projects -->
 ## Recent Projects
 - 🌐 Shirt Customizer (https://implementasi-open-aiapi-dalle-client.vercel.app/) - Implementasi AI API dari OpenAI menggunakan React, Three.js, Node, dan Express, di-deploy pada Vercel (Front-End & Back-End).
-- 📖 Expense Tracker(https://mern-expense-tracker-b1y2u5qd2-rr-089.vercel.app/) - Membuat Expense Tracker menggunakan MERN Stack, di-deploy pada Vercel(Front-End) dan Cyclic(Back-End).
+- 📖 Expense Tracker (https://mern-expense-tracker-b1y2u5qd2-rr-089.vercel.app/) - Membuat Expense Tracker menggunakan MERN Stack, di-deploy pada Vercel(Front-End) dan Cyclic(Back-End).
 
 ### Other Projects
 - 🚀[Codepen](https://codepen.io/rr-089)
