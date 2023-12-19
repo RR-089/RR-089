@@ -23,8 +23,6 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 <!-- Recent Projects -->
 ## Recent Projects
 - 🌐 Shirt Customizer (https://implementasi-open-aiapi-dalle-client.vercel.app/) - Implementasi AI API dari OpenAI menggunakan React, Three.js, Node, dan Express
-- 🚀 Expense Tracker(#) - Membuat Expense Tracker menggunakan MERN Stack (Menyusul, Belum di-Deploy)
-- 🛠️ AI Course(#) - (Menyusul)
 
 ### Other Projects
 - 🚀[Codepen](https://codepen.io/rr-089)
