@@ -37,10 +37,10 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 - 📚 [rahmatrizki089](https://www.freecodecamp.org/rachmatrizki089) - Achievements and certifications on FreeCodeCamp.
 ### Dicoding
 - 📙 [Rachmat Rizki](https://www.dicoding.com/users/ucokgg/academies) - Achievements and certifications on Dicoding.
-- 📊 [Student Playback 2023 - Dicoding](https://freeimage.host/i/JAz0hqG)
+- 📊 [Student Playback 2023 - Dicoding](https://drive.google.com/file/d/1tLcH1cVAhI-PYOas-Ga9DahgnLVgwUS9/view?usp=sharing)
 ### SoloLearn
 - 📖 [Rachmat Rizki](https://www.sololearn.com/en/profile/30428483) - Learning progress and certifications on SoloLearn.
-- 📊 [Student Playback 2023 - SoloLearn](https://freeimage.host/i/J5k3EYv)
+- 📊 [Student Playback 2023 - SoloLearn](https://drive.google.com/file/d/1BGzWwezoHkMp0UL3tIrgUucNALuNmkbS/view?usp=sharing)
 ### Lembaga Pengembangan Komputer Gunadarma (LePKom)
 - 📘 [Rachmat Rizki - 51420023](https://e-sert.gunadarma.ac.id/detail/51420023) - Certifications on LePKom Gunadarma.
 
