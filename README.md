@@ -40,8 +40,10 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 - 📊 [Student Playback 2023 - Dicoding](https://freeimage.host/i/JAz0hqG)
 ### SoloLearn
 - 📖 [Rachmat Rizki](https://www.sololearn.com/en/profile/30428483) - Learning progress and certifications on SoloLearn.
+- 📊 [Student Playback 2023 - SoloLearn](https://freeimage.host/i/J5k3EYv)
 ### Lembaga Pengembangan Komputer Gunadarma (LePKom)
 - 📘 [Rachmat Rizki - 51420023](https://e-sert.gunadarma.ac.id/detail/51420023) - Certifications on LePKom Gunadarma.
+
 
 <!-- Let's Connect -->
 ## Let's Connect
