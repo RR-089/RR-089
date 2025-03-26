@@ -50,3 +50,11 @@ Aspiring backend developer deeply passionate about the world of Node.js. While I
 - 📧 Email: rahmatrizki089@gmail.com
 - 💼 LinkedIn: [Rachmat Rizki](https://www.linkedin.com/in/rachmat-rizki-089-ucokgg/)
 - ☎️ Phone: [081295175773](https://api.whatsapp.com/send?phone=6281295175773)
+
+<!--
+## GitHub Stats
+![Ucok GitHub Stats](https://github-readme-stats.vercel.app/api?username=RR-089&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RR-089&layout=compact&theme=radical)
+-->
