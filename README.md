@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rahmat Rizki 👋</h1>
 
 <p align="center">
-  A passionate full-stack developer who loves building scalable and clean backend systems.
+  A passionate backend developer who loves building scalable and clean backend systems.
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachmat-rizki-089-ucokgg" target="_blank">
+  <a href="https://www.linkedin.com/in/rachmat-rizki-089-ucokgg" target="_tab">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
