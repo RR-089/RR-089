@@ -1,60 +1,43 @@
-# Hello, I'm Rachmat Rizki 👋
+<h1 align="center">Hi, I'm Rahmat Rizki 👋</h1>
 
-Aspiring backend developer deeply passionate about the world of Node.js. While I may currently be in the process of mastering the intricacies of building scalable and efficient server-side applications, I am eager to jump into the workforce upon graduation. Despite potential gaps in my knowledge, my enthusiasm knows no bounds. Every challenge is an opportunity to learn, and I'm excited about the endless possibilities that the backend realm offers.
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RR-089&show_icons=true&hide=issues&hide_border=true&theme=dark) -->
+<p align="center">
+  A passionate full-stack developer who loves building scalable and clean backend systems.
+</p>
 
-## Tech Stack
-- 💻 Node.js | Express.js | Nest.js
-- 🛢️ MongoDB
-- 🚀 RESTful APIs
-- 🛠️ Jest
-- 🔧 Git | VSCode | Thunder Client | Postman
+---
 
-## Languages
-- **JavaScript (Node.js):** Backend development 
-- **HTML/CSS:** Frontend and web styling 
-- **TypeScript:** Enhanced JavaScript for scalable applications 
-- **SQL:** Relational databases 
-- **NoSQL (MongoDB):** Flexible data storage 
+### 🧠 Tech Stack
 
-## Recent Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-#### [Shirt Customizer](https://implementasi-open-aiapi-dalle-client.vercel.app/)
-- 🌐 **Description:** Implementation of the AI API from OpenAI using React, Three.js, Node, and Express.
-- 🚀 **Deployment:** Deployed on Vercel for frontend and backend.
+---
 
-#### [Expense Tracker](https://mern-expense-tracker-teal.vercel.app/)
-- 🌐 **Description:** Expense Tracker using the MERN Stack.
-- 🚀 **Deployment:** Deployed on Vercel for frontend and Cyclic for backend.
+### 📊 GitHub Stats
 
-### Other Projects
-- 🚀[Codepen](https://codepen.io/rr-089)
-- 🛠️[Replit](https://replit.com/@RR-089)
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=RR-089&show_icons=true&theme=github_dark&hide_title=true&count_private=true" /> -->
+<!--   <br/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR-089&layout=compact&theme=github_dark" />
+</p>
 
-## Learning Platforms
+---
 
-### FreeCodeCamp
-- 📚 [rahmatrizki089](https://www.freecodecamp.org/rachmatrizki089) - Achievements and certifications on FreeCodeCamp.
-### Dicoding
-- 📙 [Rachmat Rizki](https://www.dicoding.com/users/ucokgg/academies) - Achievements and certifications on Dicoding.
-- 📊 [Student Playback 2023 - Dicoding](https://drive.google.com/file/d/1tLcH1cVAhI-PYOas-Ga9DahgnLVgwUS9/view?usp=sharing)
-### SoloLearn
-- 📖 [Rachmat Rizki](https://www.sololearn.com/en/profile/30428483) - Learning progress and certifications on SoloLearn.
-- 📊 [Student Playback 2023 - SoloLearn](https://drive.google.com/file/d/1BGzWwezoHkMp0UL3tIrgUucNALuNmkbS/view?usp=sharing)
-### Lembaga Pengembangan Komputer Gunadarma (LePKom)
-- 📘 [Rachmat Rizki - 51420023](https://e-sert.gunadarma.ac.id/detail/51420023) - Certifications on LePKom Gunadarma.
+### 📫 Connect with me
 
-
-<!-- Let's Connect -->
-## Let's Connect
-- 📧 Email: rahmatrizki089@gmail.com
-- 💼 LinkedIn: [Rachmat Rizki](https://www.linkedin.com/in/rachmat-rizki-089-ucokgg/)
-- ☎️ Phone: [081295175773](https://api.whatsapp.com/send?phone=6281295175773)
-
-<!--
-## GitHub Stats
-![Ucok GitHub Stats](https://github-readme-stats.vercel.app/api?username=RR-089&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RR-089&layout=compact&theme=radical)
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rachmat-rizki-089-ucokgg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
